@@ -1,0 +1,5 @@
+[
+  {"id_transaksi": "TRX-0001", "id_pemesanan": "PSN-0001", "metode": "transfer",
+   "biaya_admin": 2500, "total_tagihan": 177500,
+   "waktu_bayar": "2026-11-22T10:20:00"}
+]
