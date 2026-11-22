@@ -1,0 +1,10 @@
+[
+  {"id_pemesanan": "PSN-0001", "id_pelanggan": "PLG-001",
+   "tanggal_kunjungan": "2026-12-05", "status": "MENUNGGU_PEMBAYARAN",
+   "waktu_dibuat": "2026-11-22T10:15:00",
+   "detail": [
+     {"id_tiket": "TKT-001", "jumlah": 2, "harga_satuan": 50000, "subtotal": 100000},
+     {"id_tiket": "TKT-002", "jumlah": 1, "harga_satuan": 75000, "subtotal": 75000}
+   ],
+   "total": 175000}
+]
