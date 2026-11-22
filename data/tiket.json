@@ -1,0 +1,10 @@
+[
+  {"id_tiket": "TKT-001", "id_destinasi": "DST-001", "jenis": "reguler",
+   "nama_tiket": "Tiket Reguler", "harga_dasar": 50000, "kuota": 200},
+  {"id_tiket": "TKT-002", "id_destinasi": "DST-001", "jenis": "premium",
+   "nama_tiket": "Tiket Premium", "harga_dasar": 50000,
+   "biaya_fasilitas": 25000, "kuota": 80},
+  {"id_tiket": "TKT-003", "id_destinasi": "DST-001", "jenis": "rombongan",
+   "nama_tiket": "Paket Rombongan", "harga_dasar": 50000,
+   "min_jumlah": 10, "persen_diskon": 15, "kuota": 100}
+]
